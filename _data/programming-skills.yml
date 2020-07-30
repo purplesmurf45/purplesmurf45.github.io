@@ -1,14 +1,14 @@
 - name: C/C++
   percentage: 70
-  color: danger
+  color: rust
 
 - name: Python
   percentage: 70
-  color:
+  color: blue
 
 - name: Java
   percentage: 60
-  color: 49c0b6
+  color: yellow
 
 - name: HTML5/CSS3
   percentage: 70
@@ -16,4 +16,4 @@
 
 - name: JavaScript
   percentage: 50
-  color: ff4f81
+  color: mint

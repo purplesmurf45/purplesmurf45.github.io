@@ -4,11 +4,11 @@
 
 - name: Verilog
   percentage: 80
-  color: ecb731
+  color: indigo
 
 - name: Octave
   percentage: 70
-  color: 0077c8
+  color: deep
 
 - name: OpenCV
   percentage: 40
