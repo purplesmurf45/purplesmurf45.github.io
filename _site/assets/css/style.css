@@ -352,20 +352,6 @@ body { font-family: "Poppins", sans-serif; }
 
 .skill-bar.skill-bar-info { background: #17a2b8; }
 
-.skill-bar.skill-bar-yellow { background: #ffb900; }
-
-.skill-bar.skill-bar-blue { background: #1aafd0; }
-
-.skill-bar.skill-bar-deep { background: #6a67ce; }
-
-.skill-bar.skill-bar-rust { background: #fc636b; }
-
-.skill-bar.skill-bar-purple { background: #8e43e7; }
-
-.skill-bar.skill-bar-mint { background: #2dde98; }
-
-.skill-bar.skill-bar-indigo { background: #b84592; }
-
 .skill-bar.skill-bar-warning { background: #ffc107; }
 
 .skill-bar.skill-bar-danger { background: #dc3545; }

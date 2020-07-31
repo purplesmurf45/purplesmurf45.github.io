@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
-image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/YoussefRaafatNasry
+name: Ludo Multiplayer Game
+tools: [Python3, Pygame, Game Development]
+image: https://images-na.ssl-images-amazon.com/images/I/610leJFYyTL._SX425_.png
+description: Simple implementation of Ludo using Python3 and Pygame library
+external_url: https://github.com/purplesmurf45/LUDO
 ---

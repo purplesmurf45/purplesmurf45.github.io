@@ -1,7 +1,7 @@
 ---
-name: Coding Like Vincent Van Gogh
-tools: [Support, Author, VVG]
+name: Smart Selfie
+tools: [Python3, OpenCV, Machine Learning]
 image:
-description: Show some support by following me!
-external_url: https://github.com/YoussefRaafatNasry
+description: Automatically captures an image as soon as the program encounters a 'smile' in the video feed. 
+external_url: https://github.com/purplesmurf45/Smart-Selfie
 ---
