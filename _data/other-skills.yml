@@ -1,10 +1,10 @@
 - name: Inkscape
   percentage: 50
-  color: info
+  color: secondary
 
 - name: Verilog
   percentage: 80
-  color: indigo
+  color: success
 
 - name: Octave
   percentage: 70
@@ -12,4 +12,4 @@
 
 - name: OpenCV
   percentage: 40
-  color: success
+  color: danger
