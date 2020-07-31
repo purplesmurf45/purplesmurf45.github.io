@@ -1,19 +1,19 @@
 - name: C/C++
-  percentage: 70
+  percentage: 50
   color: info
 
 - name: Python
-  percentage: 70
+  percentage: 45
   color: danger
 
 - name: Java
-  percentage: 60
+  percentage: 40
   color: warning
 
 - name: HTML5/CSS3
-  percentage: 70
+  percentage: 50
   color: dark
 
 - name: JavaScript
-  percentage: 50
+  percentage: 40
   color: success
