@@ -1,7 +1,7 @@
 ---
-name: Restaurant Visitor Forecasting
+name: Malware Prediction
 tools: [Machine Learning, Python]
 image: https://storage.googleapis.com/kaggle-competitions/kaggle/10683/logos/header.png?t=2018-09-19-16-54-46
-description: Used a series of undersampling and oversampling techniques with LGBM to classify the malware risk of amachine with 67% accuracy given machine properties.
+description: Used a series of undersampling and oversampling techniques with LGBM to classify the malware risk of a machine with 67% accuracy given machine properties.
 external_url: https://github.com/purplesmurf45/Malware-Detection
 ---
