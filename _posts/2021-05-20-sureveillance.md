@@ -1,5 +1,5 @@
 ---
-title: Surveillance Technologies: Boon or bane?
+title: "Surveillance Technologies: Boon or bane?"
 tags: [AI, ML, Facial Recognition, Surveillance technology]
 style: fill
 color: warning
