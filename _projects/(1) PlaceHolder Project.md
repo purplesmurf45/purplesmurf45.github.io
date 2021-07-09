@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Restaurant Visitor Forecasting
+tools: [Machine Learning, Python]
+image: https://pbs.twimg.com/media/DP0S8XtX0AAWbLV?format=jpg&name=medium
+description: Predicted the total number of visitors to a restaurant for future dates given past reservation and visitationdata of the restaurants.  Used LGBM model to get an RMSLE score of 0.518.
+external_url: https://github.com/NikiAdivi/Restaurant-Visitor-Forecasting
 ---
