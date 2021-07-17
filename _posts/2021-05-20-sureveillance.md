@@ -27,6 +27,7 @@ amount of data for each citizen and the silent and easily transferable nature of
 states, countries, etc. it is difficult to identify the surveillance much less analyse and study its
 impact[1].
 
+![](https://static01.nyt.com/images/2013/07/21/books/review/0721-bks-SHONEcover/0721-bks-SHONEcover-superJumbo.jpg?quality=90&auto=webp)
 
 The implications of surveillance could be far-reaching as explained by Foucault’s
 panopticon. The panopticon describes a circle formed prison building with cells having one
@@ -53,6 +54,8 @@ people might not have the resources to go against a higher authority and hold th
 resulting in them completing their jobs out of compulsion [3].
 
 
+![](https://umbrellatech.co/wp-content/uploads/2019/10/Cameras-for-Business-Security-and-Key-Facts-of-Video-Surveillance-Systems-min-1080x675.png)
+
 One of the main reasons for the widespread adoption of Artificial Intelligence(AI) into
 surveillance technologies is to detect and report high-risk scenarios in real-time so that
 action can be taken right away. It is being incorporated into video surveillance networks to
@@ -77,6 +80,9 @@ identification process using facial recognition and even to rationing of toilet 
 toilets to curb wastage![5]
 
 
+![](https://www.cpomagazine.com/wp-content/uploads/2020/05/halt-mass-collection-of-biometric-data-say-ngos_1500.jpg)
+
+
 Despite its numerous benefits, AI surveillance has its own set of challenges. Poorly-trained
 algorithms might incorrectly classify innocent people as wanted fugitives and the system
 might not always draw logically coherent inferences from densely populated scenes[7].
@@ -99,6 +105,8 @@ camps. Rights groups inform that the people in these camps were forced to learn 
 Chinese and criticise or renounce their faith[8].
 
 
+![](https://www.eff.org/files/banner_library/surveillance-og-2.png)
+
 Another important challenge to consider is the privacy issues that come with surveillance.
 Citizens are aware that they are being monitored online due to events such as the Snowden
 leaks and the Cambridge Analytica scandal. It does not matter whether you are an innocent
@@ -118,6 +126,7 @@ them to self-regulate. This behaviour of the citizens causes them to automatical
 self-regulate even in their “traditionally” private spaces as mentioned in the panopticon
 experiment mentioned above[5].
 
+![](https://www.visualcapitalist.com/wp-content/uploads/2019/09/china-social-credit-score-prev.jpg)
 
 China, which has the largest video surveillance network in the world, proposed launching its
 social credit system as a state surveillance infrastructure to determine the ‘trustworthiness’
