@@ -2,7 +2,7 @@
 title: Sociological Analysis of Aadhaar
 tags: [Sociology, Public Identity, Aadhaar, Gender, Class,Technology]
 style: fill
-color: danger
+color: f48024
 description: How introduction of Aadhaar elevated gender and economic disparities
 ---
 
@@ -106,20 +106,21 @@ structure.
 
 
 References:<br>
-[1] https://dfpd.gov.in/pd-Introduction.html <br>
-[2] Sakshi Balani, 2014, "Functioning of the Public Distribution System: An Analytical 
-Report," Working Papers id:5628, eSocialSciences. <br>
-[3] ‘35% of PDS foodgrains reach black market’, (2017) <br>
-[4] https://uidai.gov.in/what-is-aadhaar.html <br>
+[1] https://dfpd.gov.in/pd-Introduction.html
+[2] Sakshi Balani, 2014, "Functioning of the Public Distribution System: An Analytical
+Report," Working Papers id:5628, eSocialSciences.
+[3] ‘35% of PDS foodgrains reach black market’, (2017)
+[4] https://uidai.gov.in/what-is-aadhaar.html
 [5] Khera, Reetika. "The Aadhaar debate: Where are the sociologists?." Contributions to
-Indian Sociology 52.3 (2018): 336-342. <br>
+Indian Sociology 52.3 (2018): 336-342.
 [6] Baseless Aadhaar and its many flaws: When the poor lose their thumb prints, O. Manzar
-& E. Mukherjee (2017) <br>
-[7] Aadhaar: When the Poor Get Left Out, A. BHARDWAJ, A. JOHRI(2018) <br>
+& E. Mukherjee (2017)
+[7] Aadhaar: When the Poor Get Left Out, A. BHARDWAJ, A. JOHRI(2018)
 [8] Bidisha Chaudhuri (2019) Paradoxes of Intermediation in Aadhaar: Human Making of a
-Digital Infrastructure, South Asia: Journal of South Asian Studies, 42:3, 572-587. <br>
+Digital Infrastructure, South Asia: Journal of South Asian Studies, 42:3, 572-587, DOI:
+10.1080/00856401.2019.1598671
 [9] Shweta Banerjee, “Aadhaar: Digital Inclusion and Public Services in India,” World
-Development Report, 2016, 81-92. <br>
+Development Report, 2016, 81-92.
 [10] Social Studies, Centre For Economic And & Kelkar, Govind & Nathan, Dev & Gupta,
-Swathi & Ellanki, Revathi. (2014). Aadhaar - Gender, Identity and Development. <br>
+Swathi & Ellanki, Revathi. (2014). Aadhaar - Gender, Identity and Development.
 
