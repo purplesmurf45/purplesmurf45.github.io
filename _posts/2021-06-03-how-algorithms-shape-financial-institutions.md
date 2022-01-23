@@ -35,11 +35,11 @@ With more and more financial institutions adopting algorithms for various purpos
 
 
 References:<br>
-[1] Pardo-Guerra, j. p. (2013). “trillions out of ones and zeros: the sociology of finance encounters the digital age”. in digital sociology: critical perspectives. (pp. 125-138). Palgrave Macmillan, London.
-[2] The Origin of the Credit Score, Lindsay Konsko, August 2014
-[3]​ Reducing bias in AI-based financial services, Aaron Klein, July 2020 
-[4] ​Sexist and biased? How credit firms make decisions, Kevin Peachey, November 2019.
-[5]​ What Your ZIP Code Says About Your Credit Score, Nicholas Cesare, February 2019
-[6]​ Racial Bias Found in a Major Health Care Risk Algorithm, Starre Vartan, October 2019
-[7] MacKenzie, Donald. (2018). “Material Signals: A Historical Sociology of High-Frequency Trading”. in American Journal of Sociology.
+[1] Pardo-Guerra, j. p. (2013). “trillions out of ones and zeros: the sociology of finance encounters the digital age”. in digital sociology: critical perspectives. (pp. 125-138). Palgrave Macmillan, London. <br>
+[2] The Origin of the Credit Score, Lindsay Konsko, August 2014 <br>
+[3]​ Reducing bias in AI-based financial services, Aaron Klein, July 2020 <br>
+[4] ​Sexist and biased? How credit firms make decisions, Kevin Peachey, November 2019. <br>
+[5]​ What Your ZIP Code Says About Your Credit Score, Nicholas Cesare, February 2019 <br>
+[6]​ Racial Bias Found in a Major Health Care Risk Algorithm, Starre Vartan, October 2019 <br>
+[7] MacKenzie, Donald. (2018). “Material Signals: A Historical Sociology of High-Frequency Trading”. in American Journal of Sociology. <br>
 
