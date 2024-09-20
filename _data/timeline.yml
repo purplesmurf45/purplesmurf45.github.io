@@ -1,7 +1,7 @@
-- title: Student, International Institute of Information Technology, Bangalore
-  from: 2018
-  to: present
-  description: Computer Science Undergrad
+- title: SDE, Microsoft
+  from: July, 2023
+  to: Current
+  description: Software Engineer at Microsoft under Azure
 
 - title: Intern, Microsoft
   from: May, 2021
@@ -12,3 +12,8 @@
   from: May, 2022
   to: July, 2022
   description: Software Engineering Intern
+
+- title: Student, International Institute of Information Technology, Bangalore
+  from: August, 2018
+  to: July, 2023
+  description: Computer Science Undergrad

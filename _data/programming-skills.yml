@@ -1,9 +1,9 @@
 - name: C/C++
-  percentage: 70
+  percentage: 60
   color: info
 
 - name: Python
-  percentage: 60
+  percentage: 70
   color: danger
 
 - name: Java
@@ -11,5 +11,9 @@
   color: warning
 
 - name: JavaScript
-  percentage: 60
+  percentage: 50
   color: success
+
+- name: C#
+  percentage: 60
+  color: primary
