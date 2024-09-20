@@ -2,7 +2,7 @@
 title: Sociological Analysis of Aadhaar
 tags: [Sociology, Public Identity, Aadhaar, Gender, Class,Technology]
 style: fill
-color: danger
+color: primary
 description: How introduction of Aadhaar elevated gender and economic disparities
 ---
 
